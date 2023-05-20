@@ -2,8 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 𝗳𝗿𝗼𝗺 𝗥𝘂𝘀𝘀𝗶𝗮 👾💻</h3>
 
-<a href="#">MY SKILLS</a>
-<h1></h1>
+<a href="#">𝗠𝗬 𝗦𝗞𝗜𝗟𝗟𝗦</a>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
