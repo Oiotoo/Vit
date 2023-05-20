@@ -1,7 +1,8 @@
 <h1 align="left">𝗛𝗶 𝗗𝗲𝘃𝘀, 𝗜’𝗺 <a href="#">𝗩𝗶𝘁</a>, 𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿.
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" width="32"/></h1>
 
-![](https://komarev.com/ghpvc/?username=oiotoo)
+![](https://komarev.com/ghpvc/?username=oiotoo&color=6599ED&ste=flat)
+
 <h3></h3>
 <h2><a href="#">𝗠𝗬 𝗖𝗢𝗡𝗧𝗔𝗖𝗧𝗦</a></h2>
 <a href=""><img height="32" width="32" src="https://cdn.simpleicons.org/google" /> </a> <a href=""><img height="32" width="32" src="https://cdn.simpleicons.org/mail.ru" /> </a> <a href=""><img height="32" width="32" src="https://cdn.simpleicons.org/instagram" /> </a> <a href=""><img height="32" width="32" src="https://cdn.simpleicons.org/telegram" /> </a> <a href=""><img height="32" width="32" src="https://cdn.simpleicons.org/linkedin" /> </a> <a href=""><img height="32" width="32" src="https://cdn.simpleicons.org/behance" /> </a> 
