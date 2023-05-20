@@ -1,3 +1,3 @@
-<h1 align="center">Hi there, I'm <span style: color = #6698EF>Vit</span>
+<h1 align="center">Hi there, I'm <a>Vit</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
