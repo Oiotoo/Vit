@@ -1,4 +1,4 @@
-<h1 align="left">𝗛𝗶 𝗗𝗲𝘃𝘀, 𝗜’𝗺 <a href="#">𝗩𝗶𝘁</a>, 𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿.
+<h1 color="blue" align="left">𝗛𝗶 𝗗𝗲𝘃𝘀, 𝗜’𝗺 <a href="#">𝗩𝗶𝘁</a>, 𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿.
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3></h3>
 <h2><a href="#">𝗠𝗬 𝗖𝗢𝗡𝗧𝗔𝗖𝗧𝗦</a></h2>
