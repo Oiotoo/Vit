@@ -8,7 +8,7 @@
 <h3></h3>
 
 <h2><a href="#">𝗠𝗬 𝗖𝗢𝗡𝗧𝗔𝗖𝗧𝗦</a></h2>
-<a href=""><img height="32" width="32" src="https://cdn.simpleicons.org/google" /> </a> <a href="mailto:oiotoo49@gmail.com&body=Hi I'm from GitHub!"><img height="32" width="32" src="https://cdn.simpleicons.org/mail.ru" /> </a> <a href=""><img height="32" width="32" src="https://cdn.simpleicons.org/instagram" /> </a> <a href=""><img height="32" width="32" src="https://cdn.simpleicons.org/telegram" /> </a> <a href=""><img height="32" width="32" src="https://cdn.simpleicons.org/linkedin" /> </a> <a href=""><img height="32" width="32" src="https://cdn.simpleicons.org/behance" /> </a> 
+<a href=""><img height="32" width="32" src="https://cdn.simpleicons.org/google" /> </a> <a href="mailto:oiotoo49@gmail.com?cc=oiotoo@mail.ru?body=Hi I'm from GitHub!"><img height="32" width="32" src="https://cdn.simpleicons.org/mail.ru" /> </a> <a href=""><img height="32" width="32" src="https://cdn.simpleicons.org/instagram" /> </a> <a href=""><img height="32" width="32" src="https://cdn.simpleicons.org/telegram" /> </a> <a href=""><img height="32" width="32" src="https://cdn.simpleicons.org/linkedin" /> </a> <a href=""><img height="32" width="32" src="https://cdn.simpleicons.org/behance" /> </a> 
 
 
 <h3></h3>
