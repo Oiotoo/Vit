@@ -3,9 +3,7 @@
 
 <a href="#">𝗦𝗞𝗜𝗟𝗟𝗦</a>
 
-<img height="32" width="32" src="https://cdn.simpleicons.org/HTML5" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/CSS3" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/tailwindcss" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/HTML5" /> <img height="32" width="32" src="https://cdn.simpleicons.org/CSS3" /><img height="32" width="32" src="https://cdn.simpleicons.org/tailwindcss" /> <img height="32" width="32" src="https://cdn.simpleicons.org/javascript" /> <img height="32" width="32" src="https://cdn.simpleicons.org/typescript" /> <img height="32" width="32" src="https://cdn.simpleicons.org/jquery" />
 
 
 
