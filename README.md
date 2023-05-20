@@ -22,3 +22,5 @@
 
 
 [![codewars](https://www.codewars.com/users/Oiotoo/badges/large)](https://www.codewars.com/users/Oiotoo)   
+
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=KnlnKS&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
