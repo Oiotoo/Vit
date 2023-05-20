@@ -1,3 +1,3 @@
 <h1 align="center">𝗛𝗶 𝘁𝗵𝗲𝗿𝗲, 𝗜'𝗺 <a href="#">𝗩𝗶𝘁</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<img text-align="center"src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6698EF&center=true&vCenter=true&width=435&lines=%F0%9D%97%99%F0%9D%97%BF%F0%9D%97%BC%F0%9D%97%BB%F0%9D%98%81%F0%9D%97%B2%F0%9D%97%BB%F0%9D%97%B1+%F0%9D%97%B1%F0%9D%97%B2%F0%9D%98%83%F0%9D%97%B2%F0%9D%97%B9%F0%9D%97%BC%F0%9D%97%BD%F0%9D%97%B2%F0%9D%97%BF+%F0%9D%97%B3%F0%9D%97%BF%F0%9D%97%BC%F0%9D%97%BA+%F0%9D%97%A5%F0%9D%98%82%F0%9D%98%80%F0%9D%98%80%F0%9D%97%B6%F0%9D%97%AE" alt="Typing SVG" />
+<h3 align="center">Frontend developer from Russia 👾💻</h3>
