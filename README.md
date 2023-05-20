@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3></h3>
 <h2><a href="#">𝗠𝗬 𝗖𝗢𝗡𝗧𝗔𝗖𝗧𝗦</a></h2>
-<a href=""><img height="32" width="32" src="https://cdn.simpleicons.org/google" /> </a> <a href=""><img height="32" width="32" src="https://cdn.simpleicons.org/mailru" /> </a> <a href=""><img height="32" width="32" src="https://cdn.simpleicons.org/instagram" /> </a> <a href=""><img height="32" width="32" src="https://cdn.simpleicons.org/telegramm" /> </a> <a href=""><img height="32" width="32" src="https://cdn.simpleicons.org/linkedin" /> </a>
+<a href=""><img height="32" width="32" src="https://cdn.simpleicons.org/google" /> </a> <a href=""><img height="32" width="32" src="https://cdn.simpleicons.org/mail.ru" /> </a> <a href=""><img height="32" width="32" src="https://cdn.simpleicons.org/instagram" /> </a> <a href=""><img height="32" width="32" src="https://cdn.simpleicons.org/telegram" /> </a> <a href=""><img height="32" width="32" src="https://cdn.simpleicons.org/linkedin" /> </a>
 
 
 <h3></h3>
