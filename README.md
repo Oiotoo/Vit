@@ -3,17 +3,10 @@
 
 <a href="#">𝗦𝗞𝗜𝗟𝗟𝗦</a>
 
-<img height="32" width="32" src="https://cdn.simpleicons.org/HTML5" /> <img height="32" width="32" src="https://cdn.simpleicons.org/CSS3" /><img height="32" width="32" src="https://cdn.simpleicons.org/tailwindcss" /> <img height="32" width="32" src="https://cdn.simpleicons.org/javascript" /> <img height="32" width="32" src="https://cdn.simpleicons.org/typescript" /> <img height="32" width="32" src="https://cdn.simpleicons.org/jquery" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/HTML5" /> <img height="32" width="32" src="https://cdn.simpleicons.org/CSS3" /><img height="32" width="32" src="https://cdn.simpleicons.org/tailwindcss" /> <img height="32" width="32" src="https://cdn.simpleicons.org/javascript" /> <img height="32" width="32" src="https://cdn.simpleicons.org/typescript" /> <img height="32" width="32" src="https://cdn.simpleicons.org/jquery" /> <img height="32" width="32" src="https://cdn.simpleicons.org/react" /> <img height="32" width="32" src="https://cdn.simpleicons.org/nodejs" /> <img height="32" width="32" src="https://cdn.simpleicons.org/webstorm" /> <img height="32" width="32" src="https://cdn.simpleicons.org/visualstudio" /> <img height="32" width="32" src="https://cdn.simpleicons.org/figma" /> <img height="32" width="32" src="https://cdn.simpleicons.org/adobephotoshop" />
 
 
 
-
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
